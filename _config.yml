@@ -1,0 +1,17 @@
+# Build settings
+markdown: kramdown
+theme: minima
+# remote_theme: mmistakes/minimal-mistakes
+
+title: Workshop on single-cell data sicence 2022
+# author:
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
+  - README.md
