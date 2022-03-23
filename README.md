@@ -34,7 +34,7 @@ Welcome to the Workshop on Single-Cell Data Science 2022, supported by NSFC/RGC.
 
 
 ## Organisers
-* Dr Yuanhua Huang, HKU
 * Dr Xi Chen, SUSTech
 * Dr Joshua Ho, HKU
+* Dr Yuanhua Huang, HKU
 * Dr Zhixiang Lin, CUHK
